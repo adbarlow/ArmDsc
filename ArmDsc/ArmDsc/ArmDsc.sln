@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "ArmDsc", "ArmDsc\ArmDsc.deployproj", "{E2508F5A-0CDA-4DA2-8080-313CA36B440B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2508F5A-0CDA-4DA2-8080-313CA36B440B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2508F5A-0CDA-4DA2-8080-313CA36B440B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2508F5A-0CDA-4DA2-8080-313CA36B440B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2508F5A-0CDA-4DA2-8080-313CA36B440B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA5BD508-625F-47D0-9474-4C417104BBB7}
+	EndGlobalSection
+EndGlobal
